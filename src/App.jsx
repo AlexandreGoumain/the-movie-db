@@ -57,7 +57,7 @@ function App() {
     console.log(dataToFetch);
 
     return (
-        <div className="text-white">
+        <div className="text-white bg-gray-900 min-h-screen">
             <div className="flex gap-2 justify-center items-center p-8">
                 <input
                     type="text"
